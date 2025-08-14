@@ -3,7 +3,7 @@ import React from 'react'
 function Stats() {
     return (
         <>
-            <div className="container mt-5">
+            <div className="container mt-5 mb-5">
                 <div className="row">
                     <div className="col-6">
                         <h1 className='fs-1 '>Trust with confidence </h1>
@@ -21,7 +21,7 @@ function Stats() {
                         <p className='fs-5  text-muted'>With initiatives like Nudge and Kill Switch, we don't just facilitate transactions, but actively help you do better with your money. </p>
 
                     </div>
-                    <div className="col-6 mt-5 p-5">
+                    <div className="col-6 mt-5 p-5 mb-5">
                         <img src="\media\images\ecosystem.png" alt="" style={{width:"90%"}} />
                          
                          <div>
