@@ -9,14 +9,14 @@ function Navbar() {
       style={{ backgroundColor: "#fff" }}
     >
       <div class="container p-2">
-        <a class="navbar-brand" href="#">
+        <Link class="navbar-brand" to="/">
           <img
             src="/media/images/logo.svg"
             className=""
             style={{ width: "25%" }}
             alt=""
           />
-        </a>
+        </Link>
         <button
           class="navbar-toggler"
           type="button"
