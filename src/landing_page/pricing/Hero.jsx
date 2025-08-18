@@ -3,7 +3,7 @@ import React from "react";
 function Hero() {
   return (
     <>
-      <div className="container mb-5 border-bottom">
+      <div className="container mb-5 p-5 border-bottom ">
         <div className="text-center border-bottom mt-5 mb-5">
           <h1>Pricing</h1>
           <h4 className="text-muted mb-5 mt-3 fs-5">
